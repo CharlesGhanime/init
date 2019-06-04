@@ -1,1 +1,1 @@
-ifcongif en1 | awk '/ether/{print $2}'
+ifconfig en1 | awk '/ether/{print $2}'

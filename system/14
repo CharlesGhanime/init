@@ -1,1 +1,1 @@
-tail -f /var/log/syslog puis Ctrl + z puis bc
+tail -f /var/log/syslog &
