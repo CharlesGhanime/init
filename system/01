@@ -1,1 +1,5 @@
-/etc/debian_version
+Pour Debian dans : /etc/debian_version
+
+Pour Kali le fichier etc/debian_version existe et contient "Kali Rolling".
+
+On peut trouver la version de la distribution dans /etc/os-release
