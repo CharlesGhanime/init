@@ -1,1 +1,5 @@
-NXDOMAIN
+Server:		10.51.1.42
+Address:	10.51.1.42#53
+
+16.10.13.10.in-addr.arpa	name = e3r10p16.42.fr.
+
